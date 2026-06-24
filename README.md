@@ -176,7 +176,7 @@ Open the notebook in Google Colab or Jupyter Notebook and execute all cells.
 
 ## 👨‍💻 Author
 
-Rudra Pratap Singh
+Dhruv Singh
 
 ---
 
